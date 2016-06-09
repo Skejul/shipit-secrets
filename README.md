@@ -3,7 +3,7 @@ shipit-secrets
 
 A simple secret inclusion task for shipit, inspired by capistrano.
 
-N.B.: This project uses ES6 features, and as such requires a relatively recent version of node.
+**N.B.** This project uses ES6 features, and as such requires a relatively recent version of node.
 
 Usage
 =====
